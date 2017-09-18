@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:743px;
+  width:739px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -16,7 +16,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:385px;
+  width:321px;
   height:45px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -31,9 +31,9 @@
 }
 #u0 {
   position:absolute;
-  left:358px;
-  top:128px;
-  width:385px;
+  left:418px;
+  top:107px;
+  width:321px;
   height:45px;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
@@ -43,7 +43,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:385px;
+  width:321px;
   white-space:nowrap;
 }
 #u2_div {
